@@ -20,14 +20,14 @@ h1{
   text-align: center;
   width: device-width;
 }
-#nav1{
+#nav2{
   text-decoration: none;
   color: lime;
   border: solid 2px green;
   border-radius: 5px;
   background-color: #ff007e;
 }
-#nav2{
+#nav1{
   color: red;
   text-decoration: none;
   border:solid 2px green;
