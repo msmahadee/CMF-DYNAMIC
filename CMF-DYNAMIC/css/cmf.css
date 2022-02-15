@@ -1,0 +1,15 @@
+body {
+  background-color:greenyellow;
+  width: device-width;
+  height: auto;
+}
+h1{
+  text-align: center;
+  color:red;
+}
+.header1 img{
+  height: auto;
+  width: 100%;
+  border: double lime;
+  border-radius: 5%;
+}
