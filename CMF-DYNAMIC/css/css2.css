@@ -15,7 +15,7 @@ h1{
 }
 .header{
   display: grid;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: 48% 48%;
   grid-column-gap: 4%;
   text-align: center;
   width: device-width;
