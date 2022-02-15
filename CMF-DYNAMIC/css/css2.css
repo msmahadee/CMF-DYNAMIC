@@ -4,6 +4,7 @@ body {
   height: auto;
 }
 h1{
+  font-family: Luminari, fantasy;
   text-align: center;
   color:red;
 }
