@@ -1,7 +1,8 @@
 body {
-  background-color:greenyellow;
   width: device-width;
   height: auto;
+  background: linear-gradient(to right, #473DBF, #1AB5A8, #00FF8C, #1AB5A8, #473DBF);
+  /*  background: linear-gradient(to right, #f6f1d3, #648880, #96E60C, #648880, #f6f1d3);*/
 }
 h1{
   font-family: Luminari,fantasy;
@@ -16,17 +17,16 @@ h1{
 }
 .header{
   display: grid;
-  grid-template-columns: 48% 48%;
-  grid-column-gap: 4%;
+  grid-template-columns: 32% 32% 32%;
+  grid-column-gap: 2%;
   text-align: center;
   width: device-width;
 }
 #nav1{
+  color: red;
   text-decoration: none;
-  color: lime;
-  border: solid 2px green;
+  border:solid 2px green;
   border-radius: 5px;
-  background-color: #ff007e;
 }
 #nav2{
   color: red;
@@ -34,3 +34,10 @@ h1{
   border:solid 2px green;
   border-radius: 5px;
 }
+#nav3{
+  text-decoration: none;
+  color: lime;
+  border: solid 2px green;
+  border-radius: 5px;
+  background-color: #ff007e;
+  }
