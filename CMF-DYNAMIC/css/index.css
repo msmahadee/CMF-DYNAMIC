@@ -59,8 +59,13 @@ h4{
 }
 .roster1n{
   color:red;
-  margin-top: -20%;
+  margin-top:-20%;
 }
+@media only screen and (min-width: 800px) {
+        .roster1n {
+          margin-top: -10%;
+        }
+    }
 .roster2 img{
   height: auto;
   width: 100%;
@@ -71,6 +76,11 @@ h4{
   color:red;
   margin-top: -20%;
 }
+@media only screen and (min-width: 800px) {
+        .roster2n {
+          margin-top: -10%;
+        }
+    }
 .roster3 img{
   height: auto;
   width: 100%;
@@ -80,6 +90,11 @@ h4{
 .roster3n{
   color:red;
   margin-top: -20%;
+}
+@media only screen and (min-width: 800px) {
+  .roster3n {
+    margin-top: -10%;
+  }
 }
 .roster4 img{
   height: auto;
@@ -91,6 +106,11 @@ h4{
   color:red;
   margin-top: -20%;
 }
+@media only screen and (min-width: 800px) {
+  .roster4n {
+    margin-top: -10%;
+  }
+}
 .roster5 img{
   height: auto;
   width: 100%;
@@ -101,6 +121,11 @@ h4{
   color:red;
   margin-top: -20%;
 }
+@media only screen and (min-width: 800px) {
+  .roster5n {
+    margin-top: -10%;
+  }
+}
 .roster6 img{
   height: auto;
   width: 100%;
@@ -110,4 +135,9 @@ h4{
 .roster6n{
   color:red;
   margin-top: -20%;
+}
+@media only screen and (min-width: 800px) {
+  .roster6n {
+    margin-top: -10%;
+  }
 }
