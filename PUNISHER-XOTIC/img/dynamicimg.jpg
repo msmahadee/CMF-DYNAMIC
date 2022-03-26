@@ -1,23 +1,25 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Coffin Maker Force</title>
-  <link rel="stylesheet" href="PUNISHER-XOTIC/css/index2.css">
+  <link rel="stylesheet" href="CMF-DYNAMIC/css/index.css">
 </head>
 
 <body>
   <h1>COFFIN MAKER FORCE</h1>
   <header1 class="header1">
-    <img src="PUNISHER-XOTIC/img/dynamicimg1.jpg" alt="picture">
+    <img src="CMF-DYNAMIC/img/dynamicimg1.jpg" alt="picture">
   </header1><br><br>
   <div class="header">
     <a href="index.html" id="nav1">ROSTER</a>
     <a href="index1.html" id="nav2">ACHIEVEMENT</a>
     <a href="index2.html" id="nav3">SCHEDULE</a>
   </div>
+  <h4>ROSTER</h4>
+  <roster>
+    <img src="/img/CMFdyGROOT.png" alt="picture">
+  </roster>
 </body>
-
 </html>
